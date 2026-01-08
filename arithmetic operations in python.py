@@ -1,0 +1,12 @@
+a=11
+b=3
+addition=a+b
+subtraction=a-b
+division=a/b
+multiplication=a*b
+mod=a%b
+print('sum=',addition)
+print('Subtraction=',subtraction)
+print('Division=',division)
+print('Multiplication=',multiplication)
+print('Modulus=',mod)
